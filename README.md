@@ -4,3 +4,6 @@ I am Spoorthi D Navaratna, a B.Tech Computer Science and Information Technology 
 Skill: Git and GitHub
 Interest: Web development
 Goal: Build a strong career in software development
+## Projects
+
+I am currently working on a Campus Lost & Found web application that helps students post and find lost or found items on campus.
